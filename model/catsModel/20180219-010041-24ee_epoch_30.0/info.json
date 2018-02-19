@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2018-02-19 01:00:41.478445",
+    "dataset_id": "20180219-005946-b782",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20180219-010041-24ee",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "crop",
+    "job id": "20180219-010041-24ee",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "googLeNet_cats_2",
+    "snapshot file": "snapshot_iter_1980.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "jianfengyang"
+}
